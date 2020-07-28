@@ -1,0 +1,23 @@
+{
+  "name": "capacitor-phaser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor-community/admob": "^1.0.1",
+    "@capacitor/android": "^2.3.0",
+    "@capacitor/cli": "^2.3.0",
+    "@capacitor/core": "^2.3.0",
+    "@capacitor/ios": "^2.3.0",
+    "cordova-plugin-advanced-http": "^3.0.0",
+    "cordova-plugin-file": "^6.0.2",
+    "cordova-plugin-screen-orientation": "^3.0.2",
+    "es6-promise-plugin": "^4.2.2",
+    "phaser": "^3.24.1"
+  }
+}
